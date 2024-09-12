@@ -46,7 +46,7 @@ The **Data Tables** section contains raw data and calculated fields for the foll
 
 - **Sales Table**: Provides transaction-level data, including sales date, customer ID, product ID, and sales amount.
   
-  ![Sales Table Screenshot](images/sales_table.pngg)
+  ![Sales Table Screenshot](images/sales_table.png)
 
 ---
 
