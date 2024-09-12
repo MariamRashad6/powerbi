@@ -7,12 +7,7 @@ This project presents an interactive **Power BI** dashboard designed to offer in
 2. **📋 Data Tables**: Raw data tables for Customer, Product, and Sales data.
 3. **🔗 Data Model**: Relationships between tables in the dataset.
 
-## 📁 Project Content
-The Power BI dashboard is organized into the following tabs:
-
-
-
----
+[![Watch the video](video.mp4)
 
 ## 📊 Report Visualizations
 
