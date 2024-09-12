@@ -6,8 +6,9 @@ This project presents an interactive **Power BI** dashboard designed to offer in
 1. **📈 Report Visualizations**: Interactive dashboards with key insights.
 2. **📋 Data Tables**: Raw data tables for Customer, Product, and Sales data.
 3. **🔗 Data Model**: Relationships between tables in the dataset.
+   
+https://github.com/MariamRashad6/powerbi/blob/main/images/video.mp4
 
-[![Watch the video](video.mp4)
 
 ## 📊 Report Visualizations
 
